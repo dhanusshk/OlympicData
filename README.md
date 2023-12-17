@@ -10,15 +10,11 @@ The goal of this project is to analyze and visualize Olympic data using Azure se
 - **Azure Databricks:**
   - Utilized Azure Databricks for data processing and transformation, leveraging the power of Apache Spark for efficient data manipulation and cleaning.
 
-- **Azure Synapse Analytics (formerly SQL Data Warehouse):**
+- **Azure Synapse Analytics:**
   - Loaded processed data into Azure Synapse Analytics for structured querying, allowing seamless integration with Power BI.
 
 - **Power BI:**
   - Connected Power BI to Azure Synapse Analytics for visualizing Olympic data. Utilized Power Query for additional data transformations.
-
-## Query Languages
-- Employed SQL for data querying within Azure Synapse Analytics.
-- Used Power Query M language for additional transformations in Power BI.
 
 ## Project Steps
 ### Data Collection:
